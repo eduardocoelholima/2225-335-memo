@@ -1,0 +1,17 @@
+README
+Using TF1 with current TF (2)
+
+# Within this directory, to use TF1 with the mnist examples, include:
+
+	from idl_mnist import tf, mnist
+
+in your python programs.
+
+Documentation for TF1:
+
+	See https://www.tensorflow.org/api_docs/python/tf/compat/v1/
+
+for the backward compatible 'V1' library documentation.
+
+
+
